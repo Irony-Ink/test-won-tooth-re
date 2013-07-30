@@ -1,5 +1,3 @@
-potato
-
 peanut butter
 
 sigma
@@ -7,3 +5,10 @@ sigma
 transparency
 
 tumbleweed
+
+hacksaw
+
+arrogant
+
+intrinsic
+
