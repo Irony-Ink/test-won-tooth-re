@@ -6,9 +6,14 @@ transparency
 
 tumbleweed
 
-hacksaw
+hacksawed
 
 arrogant
 
 intrinsic
 
+Djinn
+
+Crass
+
+Juniper
